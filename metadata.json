@@ -1,0 +1,7 @@
+{
+  "name": "Happy Her Bag",
+  "description": "A full-featured real-time e-commerce platform with Supabase backend, Admin Dashboard, and Gemini AI shopping assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
